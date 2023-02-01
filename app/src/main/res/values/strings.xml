@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <!-- Area Units -->
+    <string-array name="area">
+        <item>Acres (ac)</item>
+        <item>Ares (a)</item>
+        <item>Hectares (ha)</item>
+        <item>Square Centimetres (cm2)</item>
+        <item>Square Feet (ft2)</item>
+        <item>Square Inches (in2)</item>
+        <item>Square Metres (m2)</item>
+    </string-array>
+
+    <!-- Length Units -->
+    <string-array name="length">
+        <item>Millimetres (mm)</item>
+        <item>Centimetres (cm)</item>
+        <item>Metres (m)</item>
+        <item>Kilometres (km)</item>
+        <item>Inches (in)</item>
+        <item>Feet (ft)</item>
+        <item>Yards (yd)</item>
+        <item>Miles (mi)</item>
+        <item>Nautical Miles (NM)</item>
+        <item>Mils (mil)</item>
+    </string-array>
+
+    <!-- Temperature Units -->
+    <string-array name="temperature">
+        <item>Celsius (C)</item>
+        <item>Fahrenheit (F)</item>
+        <item>Kelvin (K)</item>
+    </string-array>
+
+    <!-- Volume Units -->
+    <string-array name="volume">
+        <item>UK Gallons (gal)</item>
+        <item>US Gallons (gal)</item>
+        <item>Litres (l)</item>
+        <item>Millilitres (ml)</item>
+        <item>Cubic Centimetres (cc) (cm)</item>
+        <item>Cubic Metres (m)</item>
+        <item>Cubic Inches (in)</item>
+        <item>Cubic Feet (ft)</item>
+    </string-array>
+
+    <!-- Mass Units -->
+    <string-array name="mass">
+        <item>Tons (t)</item>
+        <item>UK Tons (t)</item>
+        <item>US Tons (t)</item>
+        <item>Pounds (lb)</item>
+        <item>Ounces (oz)</item>
+        <item>Kilogrammes (kg)</item>
+        <item>Grams (g)</item>
+    </string-array>
+
+    <!-- Data units -->
+    <string-array name="data">
+        <item>Bits (bit)</item>
+        <item>Bytes (B)</item>
+        <item>Kilobytes (KB)</item>
+        <item>Megabytes (MB)</item>
+        <item>Gigabytes (GB)</item>
+        <item>Terabytes (TB)</item>
+    </string-array>
+</resources>
